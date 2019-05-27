@@ -1,7 +1,7 @@
 version: "3"
 services:
   exercism:
-    image: mrbarker/exercism-rust:0.1.1
+    image: mrbarker/exercism-rust
     volumes:
       - ~/.gitconfig:/root/.gitconfig
       - ~/.vimrc:/root/.vimrc

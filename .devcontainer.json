@@ -3,6 +3,6 @@
 	"dockerComposeFile": "docker-compose.yml",
 	"service": "exercism",
 	"workspaceFolder": "/root/exercism",
-	"extensions": ["ms-python.python"],
+	"extensions": ["rust-lang.rust"],
 	"postCreateCommand": ["bash", "postcreate.bash"]
 }
